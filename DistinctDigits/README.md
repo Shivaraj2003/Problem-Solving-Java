@@ -14,4 +14,4 @@ Write a program that finds the number of integers in a given range where all the
 ### Description
 Suppose n1=11 and n2=15.
 
-There is the number 11, which has repeated digits, but 12, 13, 14 and 15 have no repeated digits. So, the output is 4.
+There is the number 11, which has repeated digits, but 12, 13, 14 and 15 have no repeated digits. So, the output is 4
